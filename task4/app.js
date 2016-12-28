@@ -1,7 +1,7 @@
 'use strict';
 
-const Storage = require('./app/Storage.class');
-const Parser = require('./app/Parser.class');
+const Storage = require('./app/Storage.class.js');
+const Parser = require('./app/Parser.class.js');
 
 
 module.exports = {
